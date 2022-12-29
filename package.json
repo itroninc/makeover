@@ -83,5 +83,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/itroninc/makeover.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
